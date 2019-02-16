@@ -1,0 +1,17 @@
+usage: cnf3d2 <cnf-file>
+
+When the graphics display appears (and has the focus)
+the following commands may be used:
+'n': display next (finer) graph
+'e': toggle edge display
+'a': toggle node size adjustment
+'2': toggle 2-clauses (only for graph with L=0)
+'g': go; compute all graphs down to level L=0
+'r': reset display (zoom, orientation,...)
+
+You can use the mouse to
+- rotate (with the left mouse button pressed)
+- zoom   (with the middle mouse button pressed)
+- drag   (with the right mouse button pressed)
+
+(C) Carsten Sinz, JKU Linz, 2006
